@@ -12,6 +12,7 @@ body{
 }
 #list-items{
     margin-top: 8px;  
+    background: crimson;
 }
 #list-items a{
     color: white;
