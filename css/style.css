@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+body{
+    background: gainsboro;
+}
+#nav-header{
+    background: brown;
+}
+#list-items{
+    margin-top: 8px;  
+}
+#list-items a{
+    color: white;
+}
+
+.navbar-brand{
+   margin-top: 7px;
+}
+.navbar-brand span{
+    color: white;
+    font-size: 40px;
+    text-align:center;
+}
+.navbar-text p{
+    color: white;
+}
+#list-items a{
+    text-align: center ;
+}
+h1{
+    text-align: center;
+}
+h3{
+    text-align: center;
+    padding-top: 10px;
+}
+.row{
+    background: grey;
+    margin-bottom: 20px;
+}
