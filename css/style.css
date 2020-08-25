@@ -8,6 +8,7 @@ body{
 }
 #nav-header{
     background: brown;
+    height: 60px;
 }
 #list-items{
     margin-top: 8px;  
